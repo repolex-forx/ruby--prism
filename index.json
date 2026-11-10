@@ -1,0 +1,11 @@
+{
+  "org": "ruby",
+  "repo": "prism",
+  "versions": [
+    {
+      "commit": "774aebc1f307c4b86ce08d569b055fb1a182d2c0",
+      "tag": "",
+      "parsed_at": "2026-11-10T01:22:25.580985+00:00"
+    }
+  ]
+}
