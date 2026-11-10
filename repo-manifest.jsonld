@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ruby/prism/commit/774aebc1f307c4b86ce08d569b055fb1a182d2c0",
       "git:hexsha": "774aebc1f307c4b86ce08d569b055fb1a182d2c0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T01:22:25.580514+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ruby/prism/commit/4ae838daf443b39355e26d64f782f810338a5b24",
